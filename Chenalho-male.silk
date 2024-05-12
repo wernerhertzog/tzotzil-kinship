@@ -16,14 +16,14 @@
 </parameters>
 <editorSettings>
   <currentEgo n="1"/>
-  <editDirectory dir="C:\Users\Werner\Documents\GitHub\tzotzil-kinship"/>
+  <editDirectory dir="/Users/wberga/Documents/GitHub/tzotzil-kinship"/>
   <currentChart id="A"/>
   <chartDescriptions>
     <chart name="Default Chart"/>
   </chartDescriptions>
   <origin x="0" y="0"/>
   <area W="1696" H="556"/>
-  <infoPerson>102</infoPerson>
+  <infoPerson>0</infoPerson>
   <infoMarriage>-1</infoMarriage>
   <label>0</label>
   <ktlabel>1</ktlabel>
@@ -35,8 +35,8 @@
   <doInduction value="false"/>
   <surnameCapture value="true"/>
   <birthdateCapture value="false"/>
-  <chartFont name="Dialog" size="13"/>
-  <printFont name="Dialog" size="9"/>
+  <chartFont name="Dialog" size="9"/>
+  <printFont name="Dialog" size="6"/>
   <printOrientation value="0"/>
   <kinTypePriorities maleFirst="true">
 	<kinType name="Fa" priority="A"/>
@@ -1103,7 +1103,7 @@
 
 <individual n="8"><sex>F</sex>
   <homeChart id="A"/>
-  <location x="960" y="360"/>
+  <location x="1040" y="360"/>
   <surname value=""/>
   <firstNames value=""/>
   <dataChangeDate value="2024-05-12"/>
@@ -1117,7 +1117,7 @@
 
 <individual n="9"><sex>M</sex>
   <homeChart id="A"/>
-  <location x="1040" y="360"/>
+  <location x="1120" y="360"/>
   <surname value=""/>
   <firstNames value=""/>
   <dataChangeDate value="2024-05-12"/>
@@ -1131,7 +1131,7 @@
 
 <individual n="10"><sex>M</sex>
   <homeChart id="A"/>
-  <location x="1080" y="360"/>
+  <location x="1160" y="360"/>
   <surname value=""/>
   <firstNames value=""/>
   <dataChangeDate value="2024-05-12"/>
@@ -1145,7 +1145,7 @@
 
 <individual n="11"><sex>F</sex>
   <homeChart id="A"/>
-  <location x="1160" y="360"/>
+  <location x="1240" y="360"/>
   <surname value=""/>
   <firstNames value=""/>
   <dataChangeDate value="2024-05-12"/>
@@ -1159,7 +1159,7 @@
 
 <individual n="12"><sex>F</sex>
   <homeChart id="A"/>
-  <location x="760" y="360"/>
+  <location x="720" y="360"/>
   <surname value=""/>
   <firstNames value=""/>
   <dataChangeDate value="2024-05-12"/>
@@ -1229,7 +1229,7 @@
 
 <individual n="17"><sex>M</sex>
   <homeChart id="A"/>
-  <location x="680" y="360"/>
+  <location x="640" y="360"/>
   <surname value=""/>
   <firstNames value=""/>
   <dataChangeDate value="2024-05-12"/>
@@ -1283,7 +1283,7 @@
 
 <individual n="21"><sex>M</sex>
   <homeChart id="A"/>
-  <location x="640" y="360"/>
+  <location x="560" y="360"/>
   <surname value=""/>
   <firstNames value=""/>
   <dataChangeDate value="2024-05-12"/>
@@ -1297,7 +1297,7 @@
 
 <individual n="22"><sex>F</sex>
   <homeChart id="A"/>
-  <location x="560" y="360"/>
+  <location x="480" y="360"/>
   <surname value=""/>
   <firstNames value=""/>
   <dataChangeDate value="2024-05-12"/>
@@ -2626,8 +2626,8 @@
   <dataChangeDate value="2024-05-12"/>
 </family>
 
-<family n="5">  <homeChart id="A"/>  <location x="1000" y="360"/>
-  <reason>N/A</reason>
+<family n="5">  <homeChart id="A"/>  <location x="1080" y="360"/>
+  <reason>NA</reason>
   <deleted>false</deleted>
   <husband n="9"/>
   <wife n="8"/>
@@ -2639,8 +2639,8 @@
   <dataChangeDate value="2024-05-12"/>
 </family>
 
-<family n="6">  <homeChart id="A"/>  <location x="1120" y="360"/>
-  <reason>N/A</reason>
+<family n="6">  <homeChart id="A"/>  <location x="1200" y="360"/>
+  <reason>NA</reason>
   <deleted>false</deleted>
   <husband n="10"/>
   <wife n="11"/>
@@ -2663,8 +2663,8 @@
   <dataChangeDate value="2024-05-12"/>
 </family>
 
-<family n="8">  <homeChart id="A"/>  <location x="720" y="360"/>
-  <reason>N/A</reason>
+<family n="8">  <homeChart id="A"/>  <location x="680" y="360"/>
+  <reason>NA</reason>
   <deleted>false</deleted>
   <husband n="17"/>
   <wife n="12"/>
@@ -2672,7 +2672,7 @@
     <kid n="18"/>
   </children>
   <dataAuthor name="Werner Hertzog"/>
-  <dataChangeDate value="2024-05-10"/>
+  <dataChangeDate value="2024-05-12"/>
 </family>
 
 <family n="9">  <homeChart id="deleted"/>  <location x="620" y="200"/>
@@ -2685,8 +2685,8 @@
   <dataChangeDate value="2024-05-10"/>
 </family>
 
-<family n="10">  <homeChart id="A"/>  <location x="600" y="360"/>
-  <reason>N/A</reason>
+<family n="10">  <homeChart id="A"/>  <location x="520" y="360"/>
+  <reason>NA</reason>
   <deleted>false</deleted>
   <husband n="21"/>
   <wife n="22"/>
@@ -2695,7 +2695,7 @@
     <kid n="45"/>
   </children>
   <dataAuthor name="Werner Hertzog"/>
-  <dataChangeDate value="2024-05-10"/>
+  <dataChangeDate value="2024-05-12"/>
 </family>
 
 <family n="11">  <homeChart id="A"/>  <location x="360" y="120"/>
@@ -2942,7 +2942,7 @@
 </family>
 
 <family n="32">  <homeChart id="A"/>  <location x="960" y="120"/>
-  <reason>NA</reason>
+  <reason>N/A</reason>
   <deleted>false</deleted>
   <husband n="63"/>
   <wife n="62"/>
@@ -3036,7 +3036,7 @@
 </family>
 
 <family n="40">  <homeChart id="A"/>  <location x="480" y="120"/>
-  <reason>NA</reason>
+  <reason>N/A</reason>
   <deleted>false</deleted>
   <husband n="86"/>
   <wife n="87"/>
@@ -3088,7 +3088,7 @@
 </family>
 
 <family n="44">  <homeChart id="A"/>  <location x="1200" y="60"/>
-  <reason>NA</reason>
+  <reason>N/A</reason>
   <deleted>false</deleted>
   <husband n="96"/>
   <wife n="97"/>
@@ -3371,7 +3371,7 @@
 	<cell alter="5"><pcString>"SisHu"</pcString> <level>0</level>
 		<miniPreds> <pred rel="Sis" arg0="4" arg1="1"/><pred rel="Hu" arg0="5" arg1="4"/> </miniPreds> <PR>jbol</PR><PA>totil</PA></cell>
 	<cell alter="6"><pcString>"Bro"</pcString> <level>0</level>
-		<miniPreds> <pred rel="Bro" arg0="6" arg1="1"/> </miniPreds> <PR>jbanik\ kitsʼin</PR><PA>bankil\ itsʼinal</PA></cell>
+		<miniPreds> <pred rel="Bro" arg0="6" arg1="1"/> </miniPreds> <PR>jbankil\ kitsʼin</PR><PA>bankil\ itsʼinal</PA></cell>
 	<cell alter="7"><pcString>"BroWi"</pcString> <level>0</level>
 		<miniPreds> <pred rel="Bro" arg0="6" arg1="1"/><pred rel="Wi" arg0="7" arg1="6"/> </miniPreds> <PR>jmuʼ</PR><PA>kantsil\ tseb</PA></cell>
 	<cell alter="8"><pcString>"BroDa"</pcString> <level>-1</level>
@@ -25725,12 +25725,10 @@
 </row>
 </matrix>
 <dyadsUndefinedRef>
-<dyadKinTerm kinTerm="jbanik\ kitsʼin">
+<dyadKinTerm kinTerm="jbankil\ kitsʼin">
 	<kinType type="Bro">
 <dyad level="0" kinTermType="0" addrOrRef="0" ego="1" alter="6" path="" />
 	</kinType>
-</dyadKinTerm>
-<dyadKinTerm kinTerm="jbankil\ kitsʼin">
 	<kinType type="FaSisSo">
 <dyad level="0" kinTermType="0" addrOrRef="0" ego="1" alter="47" path="3, 33" />
 <dyad level="0" kinTermType="0" addrOrRef="0" ego="1" alter="48" path="3, 31" />
@@ -26151,12 +26149,12 @@
 <dyad level="0" kinTermType="0" addrOrRef="1" ego="1" alter="7" path="6" />
 	</kinType>
 	<kinType type="Da">
-<dyad level="-1" kinTermType="0" addrOrRef="1" ego="1" alter="12" path="" />
+<dyad level="-1" kinTermType="0" addrOrRef="0" ego="1" alter="12" path="" />
 	</kinType>
 </dyadKinTerm>
 <dyadKinTerm kinTerm="kantsil\ yaʼa">
 	<kinType type="BroDa">
-<dyad level="-1" kinTermType="0" addrOrRef="1" ego="1" alter="8" path="6" />
+<dyad level="-1" kinTermType="0" addrOrRef="0" ego="1" alter="8" path="6" />
 	</kinType>
 	<kinType type="BroDaDa">
 <dyad level="-2" kinTermType="0" addrOrRef="1" ego="1" alter="111" path="6, 8" />
@@ -26165,7 +26163,7 @@
 <dyad level="-2" kinTermType="0" addrOrRef="1" ego="1" alter="110" path="6, 8, 109" />
 	</kinType>
 	<kinType type="BroSoWi">
-<dyad level="-1" kinTermType="0" addrOrRef="1" ego="1" alter="11" path="6, 10" />
+<dyad level="-1" kinTermType="0" addrOrRef="0" ego="1" alter="11" path="6, 10" />
 	</kinType>
 	<kinType type="DaDa">
 <dyad level="-2" kinTermType="0" addrOrRef="1" ego="1" alter="18" path="12" />
@@ -26174,10 +26172,10 @@
 <dyad level="-1" kinTermType="0" addrOrRef="1" ego="1" alter="35" path="4" />
 	</kinType>
 	<kinType type="SisDaDa">
-<dyad level="-2" kinTermType="0" addrOrRef="1" ego="1" alter="42" path="4, 35" />
+<dyad level="-2" kinTermType="0" addrOrRef="0" ego="1" alter="42" path="4, 35" />
 	</kinType>
 	<kinType type="SisDaSoWi">
-<dyad level="-2" kinTermType="0" addrOrRef="1" ego="1" alter="43" path="4, 35, 41" />
+<dyad level="-2" kinTermType="0" addrOrRef="0" ego="1" alter="43" path="4, 35, 41" />
 	</kinType>
 	<kinType type="SisSoDa">
 <dyad level="-2" kinTermType="0" addrOrRef="1" ego="1" alter="45" path="4, 21" />
@@ -26186,7 +26184,7 @@
 <dyad level="-2" kinTermType="0" addrOrRef="1" ego="1" alter="23" path="4, 21, 24" />
 	</kinType>
 	<kinType type="SisSoWi">
-<dyad level="-1" kinTermType="0" addrOrRef="1" ego="1" alter="22" path="4, 21" />
+<dyad level="-1" kinTermType="0" addrOrRef="0" ego="1" alter="22" path="4, 21" />
 	</kinType>
 	<kinType type="SoSoWi">
 <dyad level="-2" kinTermType="0" addrOrRef="1" ego="1" alter="15" path="13, 16" />
